@@ -21,19 +21,14 @@ I use GitHub to track progress and experiment with different ideas over time.
 ---
 
 ## GitHub Overview (Auto-updated)
+## Contribution Calendar
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudrathacker2011&theme=github_dark" />
+  <img
+    src="https://ghchart.rshah.org/0d1117/rudrathacker2011"
+    alt="GitHub contribution chart"
+  />
 </p>
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudrathacker2011&theme=github_dark" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rudrathacker2011&theme=github_dark" />
-</p>
-
----
 
 ## Connect
 - Instagram: https://www.instagram.com/thacker.rudra20
