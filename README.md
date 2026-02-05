@@ -1,13 +1,13 @@
-<h1 align="center">Rudra Thacker</h1>
+<h1 align="center">Rudra Hitesh Thacker</h1>
 <p align="center">
-Student · Software & Technology Enthusiast
+Student · Exploring Software & Technology
 </p>
 
 ---
 
 ## About
-I am a student exploring programming, software development, and computer science fundamentals.  
-My focus is on understanding concepts, building consistency, and improving through real practice.
+I am a student exploring programming and computer science fundamentals.  
+I focus on understanding concepts, building consistency, and improving through hands-on practice.
 
 I use GitHub to learn, experiment, and track progress over time.
 
@@ -22,7 +22,9 @@ I use GitHub to learn, experiment, and track progress over time.
 
 ## Tech & Languages (Auto-updated)
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thacker-rudra&layout=compact&theme=dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrathacker2011&layout=compact&theme=dark&hide_border=true"
+  />
 </p>
 
 <sub>Automatically updates based on repositories.</sub>
@@ -31,11 +33,15 @@ I use GitHub to learn, experiment, and track progress over time.
 
 ## GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thacker-rudra&show_icons=true&theme=dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rudrathacker2011&show_icons=true&theme=dark&hide_border=true"
+  />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thacker-rudra&theme=dark&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rudrathacker2011&theme=dark&hide_border=true"
+  />
 </p>
 
 ---
