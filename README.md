@@ -1,48 +1,41 @@
 <h1 align="center">Rudra Thacker</h1>
 <p align="center">
-Student · Exploring Programming · Learning by Building
+Student · Software & Technology Enthusiast
 </p>
-
-<hr/>
-
-## Overview
-I am a student exploring software development and computer science fundamentals.  
-My focus is on understanding concepts deeply, writing clean code, and improving consistently through practice.
-
-I experiment with different tools and languages as part of my learning journey.
 
 ---
 
-## What I’m Doing Now
-- Building problem-solving skills  
-- Exploring programming languages and tools  
-- Learning how real-world software is structured  
-- Improving consistency and GitHub activity  
+## About
+I am a student exploring programming, software development, and computer science fundamentals.  
+My focus is on understanding concepts, building consistency, and improving through real practice.
+
+I use GitHub to learn, experiment, and track progress over time.
 
 ---
 
-## Language Usage (Auto-Detected)
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thacker-rudra&layout=compact&theme=dark&hide_border=true" 
-  />
-</p>
-
-<sub>This section updates automatically based on your repositories.</sub>
+## Currently
+- Exploring different programming languages and tools  
+- Strengthening problem-solving and logical thinking  
+- Learning how real-world software systems are built  
 
 ---
 
-## GitHub Activity
+## Tech & Languages (Auto-updated)
 <p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=thacker-rudra&show_icons=true&theme=dark&hide_border=true" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thacker-rudra&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<sub>Automatically updates based on repositories.</sub>
+
+---
+
+## GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=thacker-rudra&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="left">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=thacker-rudra&theme=dark&hide_border=true" 
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thacker-rudra&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -53,5 +46,5 @@ I experiment with different tools and languages as part of my learning journey.
 ---
 
 <p align="center">
-<sub>Minimal · Neutral · Always Learning</sub>
+<sub>Learning · Building · Improving</sub>
 </p>
