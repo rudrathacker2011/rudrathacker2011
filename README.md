@@ -1,35 +1,51 @@
 <h1 align="center">Rudra Hitesh Thacker</h1>
 <p align="center">
-Student · Exploring Software & Technology
+Student · Exploring Software Engineering & AI/ML
 </p>
 
 ---
 
-## About
-I am a student exploring programming and computer science fundamentals.  
-I focus on understanding concepts, building consistency, and learning by doing.
+## About Me
+I am a student focused on building strong fundamentals in programming and computer science.  
+I learn by **writing code**, **solving problems**, and **organizing projects** in a structured way.
 
-I use GitHub to track progress and experiment over time.
-
----
-
-## Currently
-- Exploring programming languages and tools  
-- Improving logical thinking and problem solving  
-- Understanding real-world software systems  
+GitHub is my workspace to track learning progress, experiments, and long-term growth.
 
 ---
 
-## Contribution Activity
-<p align="left">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rudrathacker2011&theme=github_dark&utcOffset=5.5"
-  />
-</p>
+## Current Focus
+- Programming fundamentals (C / C++ / Python)
+- Data handling and analysis (NumPy, Pandas)
+- Visualization and understanding data (Matplotlib)
+- Basics of Machine Learning (scikit-learn)
+- Writing clean, structured, and readable code
 
 ---
 
-## Tech & Languages (Auto-updated)
+## Tech Stack & Languages
+> Based on my active repositories and ongoing learning
+
+### Languages
+- C  
+- C++  
+- Python  
+
+### Libraries & Tools
+- NumPy  
+- Pandas  
+- Matplotlib  
+- scikit-learn  
+- Git & GitHub  
+- VS Code  
+
+### Learning Direction
+- Machine Learning foundations  
+- Data analysis workflows  
+- Problem solving & algorithms  
+
+---
+
+## Repository-Based Language Stats (Auto-Updated)
 <p align="left">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudrathacker2011&theme=github_dark"
@@ -39,6 +55,15 @@ I use GitHub to track progress and experiment over time.
 <p align="left">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rudrathacker2011&theme=github_dark"
+  />
+</p>
+
+---
+
+## Contribution Activity
+<p align="left">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rudrathacker2011&theme=github_dark&utcOffset=5.5"
   />
 </p>
 
