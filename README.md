@@ -1,12 +1,15 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/4kRi1Bkm6I2bK/giphy.gif" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" />
+  <img src="./luffy.gif" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" alt="Anime Hacker GIF" />
 </div>
 
 <br>
 
-<h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=600&lines=Hi,+I'm+Rudra+Hitesh+Thacker;1st+Year+CSE+Student;Exploring+Web+Development+%26+AI;If+you+stop+learning,+you+stay+stuck." alt="Typing SVG" />
-</h1>
+<h2 align="left">Hi there 👋</h2>
+<p align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM0NTY3ODkwMTIzNDU2Nzg5MDEyMzQ1Njc4OTAxMjM0NTY3ODkwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu3XilJ5BOiSGic/giphy.gif" width="40" style="margin-bottom: -10px;" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00FF00&width=600&size=22&lines=Hi,+I'm+Rudra+Hitesh+Thacker;1st+Year+CSE+Student;Exploring+Web+Development+%26+AI;If+you+stop+learning,+you+stay+stuck." alt="Typing SVG" />
+</p>
 
 <div align="left">
   <p>A techie passionate about Web Development, Data Science, and mastering the fundamentals of code.</p>
@@ -30,7 +33,7 @@
 
 <h3 align="left">💻 My Favorite Tools & Technologies</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,py,numpy,pandas,mysql,git,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,py,numpy,pandas,mysql,git,vscode,linux&theme=dark" alt="Tech Stack" />
 </p>
 
 <br>
@@ -43,21 +46,15 @@
 
 <br>
 
+<h3 align="left">🔥 Contribution Streak</h3>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrathacker2011&theme=dark&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
 
-<h3 align="left">🔥 Contribution Activity Graph</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrathacker2011&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
-<br>
-
+<h3 align="left">🤝 Connect With Me</h3>
 <div align="left">
-  <h3 align="left">🤝 Connect With Me</h3>
   <a href="https://www.instagram.com/thacker.rudra20"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF00&border_color=00FF00" alt="Instagram" /></a>
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF00&border_color=00FF00" alt="Email" /></a>
 </div>
