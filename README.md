@@ -39,30 +39,25 @@
 
 <br>
 
-<h3 align="left">🏆 GitHub Trophies</h3>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rudrathacker2011&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&v=1" alt="Trophies" />
-  </a>
-</p>
-
-<br>
-
 <h3 align="left">📊 GitHub Analytics</h3>
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rudrathacker2011&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrathacker2011&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rudrathacker2011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrathacker2011&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrathacker2011&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrathacker2011&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <h3 align="left">🐍 Contribution Graph</h3>
 <p align="center">
-  <i>(The interactive Contribution Snake requires setting up a GitHub Action workflow. Let me know if you want the code to activate this!)</i>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rudrathacker2011/rudrathacker2011/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rudrathacker2011/rudrathacker2011/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rudrathacker2011/rudrathacker2011/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
