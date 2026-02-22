@@ -1,76 +1,56 @@
-<h1 align="center">Rudra Hitesh Thacker</h1>
 <p align="center">
-Student · Exploring Software Engineering & AI/ML
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=Rudra%20Hitesh%20Thacker&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F9D423&height=200&section=header&text=Rudra%20Hitesh%20Thacker&fontSize=50&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=1st+Year+CSE+Student+🚀;Learning+Every+Single+Day;Python,+C++,+and+Beyond;Building+the+Future+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=Future+Pirate+King+of+Code+🏴‍☠️;1st+Year+CSE+Student;Exploring+Web+Development;AI+%26+Data+Science+Enthusiast;If+you+stop+learning,+you+stay+stuck." alt="Typing SVG" />
 </p>
 
----
-
-### 💡 My Philosophy
-> **"If you stop learning, you stay stuck."** > I am an aspiring engineer with a deep curiosity for how things work. Currently, I'm building a solid foundation in Computer Science and exploring the world of Data Science and AI.
-
----
-
-### 📚 My Learning Tracker
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h4>Currently Mastering 🛠️</h4>
-      <ul>
-        <li><b>Data Science:</b> Scikit-Learn & Pandas</li>
-        <li><b>Languages:</b> Mastering C++ STL</li>
-        <li><b>Development:</b> Exploring React Hooks</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h4>Current Reading List 📖</h4>
-      <ul>
-        <li>Clean Code - Robert C. Martin</li>
-        <li>Python for Data Analysis</li>
-        <li>Automating the Boring Stuff</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I1ZjkzNmY1ZjkzNmY1ZjkzNmY1ZjkzNmY1ZjkzNmY1ZjkzNmYmc2VjPXByb3h5JnE9NzU/DSxKEQo3DXU0F89M9W/giphy.gif" width="200" />
+</p>
 
 <p align="center">
-  <b>Course Progress:</b><br />
-  <code>Data Structures & Algorithms</code> [▓▓▓▓░░░░░░] 40%<br />
-  <code>Machine Learning Foundations</code> [▓▓▓░░░░░░░] 30%
+  <a href="https://github.com/rudrathacker2011">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrathacker2011&theme=tokyonight&hide_border=true&stroke=F9D423" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🍖 The Quest for Knowledge
+- 🌊 **Current Sea:** 1st Year CSE (Building Fundamentals)
+- ⚓ **Core Philosophy:** "If you stop learning, you stay stuck."
+- 🗺️ **Mission:** Mastering the core logic of programming and the web.
+- 🔥 **Status:** Currently diving deep into **Vanilla JavaScript**, **C++**, and **Python**.
+
+---
+
+### 🛠️ Technical Gear (The Arsenal)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,numpy,pandas,sklearn,git,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,py,numpy,pandas,mysql&theme=dark" />
 </p>
 
 ---
 
-### 🔄 Live Learning Feed (Auto-Updated)
-*Tracking my latest commits and learning logs...*
+### 🔄 Gear 5: Recent Activity (Auto-Updated)
+*Setting sail and fetching latest commits...*
 ---
 
-### 📊 Growth Metrics
+### 📊 Logbook Statistics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rudrathacker2011&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrathacker2011&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rudrathacker2011&show_icons=true&theme=tokyonight&hide_border=true&title_color=F9D423" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrathacker2011&layout=compact&theme=tokyonight&hide_border=true&title_color=F9D423" />
 </p>
 
 ---
 
-### 🤝 Connect with the Journey
+### 🤝 Join the Crew
 <p align="center">
-<a href="https://www.instagram.com/thacker.rudra20" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="mailto:rudra@example.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/thacker.rudra20"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F9D423&height=100&section=footer" />
 </p>
