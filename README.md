@@ -1,60 +1,68 @@
 <div align="center">
-  <img src="./luffy.gif" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" alt="Anime Hacker GIF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Rudra%20Hitesh%20Thacker&fontSize=50&animation=fadeIn&fontAlignY=38&desc=1st%20Year%20CSE%20Student&descAlignY=58&descAlign=50" alt="Header Banner" />
 </div>
 
 <br>
 
-<h2 align="left">Hi there 👋</h2>
-<p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM0NTY3ODkwMTIzNDU2Nzg5MDEyMzQ1Njc4OTAxMjM0NTY3ODkwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu3XilJ5BOiSGic/giphy.gif" width="40" style="margin-bottom: -10px;" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00FF00&width=600&size=22&lines=Hi,+I'm+Rudra+Hitesh+Thacker;1st+Year+CSE+Student;Exploring+Web+Development+%26+AI;If+you+stop+learning,+you+stay+stuck." alt="Typing SVG" />
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+Rudra,+an+aspiring+Software+Engineer;Exploring+Web+Development+%26+AI;Constant+Evolution+is+Mandatory" alt="Typing SVG" />
+</h2>
+
+<p align="center">
+  <a href="https://github.com/rudrathacker2011"><img src="https://img.shields.io/github/followers/rudrathacker2011?label=Followers&style=social" alt="GitHub followers"></a>
+  <a href="https://www.instagram.com/thacker.rudra20"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<br>
+
+<div align="center">
+  <h3>A techie passionate about Web Development & Data Science 🚀</h3>
+</div>
+
 <div align="left">
-  <p>A techie passionate about Web Development, Data Science, and mastering the fundamentals of code.</p>
+  <br>
   <ul>
-    <li>🔭 I’m currently building my foundation in <strong>C++, Python, and Vanilla JS</strong></li>
-    <li>🌱 I’m currently learning <strong>Data Structures and Machine Learning</strong></li>
-    <li>⚡ Fun fact: I believe constant evolution is mandatory.</li>
+    <li>🔭 I’m currently building my foundation in <b>C++, Python, and Vanilla JS</b>.</li>
+    <li>🌱 I’m currently deep-diving into <b>Data Structures</b> and <b>Machine Learning</b>.</li>
+    <li>👯 I’m looking to collaborate on beginner-friendly open-source projects.</li>
+    <li>⚡ Fun fact: I believe AI is a co-pilot, not a replacement.</li>
   </ul>
 </div>
+
+<br>
+
+<h3 align="left">🛠️ My Favorite Tools & Technologies</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,py,numpy,pandas,mysql,git,vscode,linux&theme=dark&perline=12" alt="Tech Stack" />
+</p>
 
 <br>
 
 <h3 align="left">🏆 GitHub Trophies</h3>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rudrathacker2011&theme=dark&no-bg=true&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rudrathacker2011&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&v=1" alt="Trophies" />
   </a>
 </p>
 
 <br>
 
-<h3 align="left">💻 My Favorite Tools & Technologies</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,py,numpy,pandas,mysql,git,vscode,linux&theme=dark" alt="Tech Stack" />
+<h3 align="left">📊 GitHub Analytics</h3>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rudrathacker2011&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrathacker2011&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrathacker2011&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<h3 align="left">🐍 Contribution Graph</h3>
+<p align="center">
+  <i>(The interactive Contribution Snake requires setting up a GitHub Action workflow. Let me know if you want the code to activate this!)</i>
 </p>
-
-<br>
-
-<h3 align="left">📈 Language Progress & GitHub Stats</h3>
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rudrathacker2011&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9&icon_color=00FF00&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrathacker2011&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9&icon_color=00FF00&hide_border=true" alt="Top Languages" />
-</div>
-
-<br>
-
-<h3 align="left">🔥 Contribution Streak</h3>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrathacker2011&theme=dark&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<h3 align="left">🤝 Connect With Me</h3>
-<div align="left">
-  <a href="https://www.instagram.com/thacker.rudra20"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF00&border_color=00FF00" alt="Instagram" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF00&border_color=00FF00" alt="Email" /></a>
-</div>
