@@ -62,11 +62,6 @@
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rudrathacker2011&show_icons=true&theme=transparent&title_color=2E7D32&icon_color=1B5E20&text_color=9f9f9f&border_color=2E7D32&hide_border=true" />
-  
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrathacker2011&layout=compact&theme=transparent&title_color=2E7D32&text_color=9f9f9f&border_color=2E7D32&hide_border=true" />
-</div>
 
 <br>
 
