@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Living%20by%20Design&fontSize=40&fontColor=fff&animation=twinkling&desc=Not%20by%20Default&descSize=20&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:1B5E20&height=200&section=header&text=Living%20by%20Design&fontSize=45&fontColor=FFFFFF&animation=twinkling&desc=Not%20by%20Default&descSize=22&descAlignY=65&descColor=FFFFFF" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=500&color=00C9FF&center=true&vCenter=true&width=435&lines=Rudra+Hitesh+Thacker;AI%2FML+Enthusiast;System+Architect;Gym+Freak+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=500&color=2E7D32&center=true&vCenter=true&width=435&lines=Rudra+Hitesh+Thacker;AI%2FML+Enthusiast;System+Architect;Gym+Freak+%F0%9F%92%AA" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rudrathacker2011&label=Profile%20Views&color=00C9FF&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rudrathacker2011&label=Profile%20Views&color=2E7D32&style=flat" alt="Profile Views" />
 </div>
 
 <br>
@@ -60,32 +60,18 @@
 
 <br>
 
-## 📊 Learning Progress
-
-<div align="center">
-  
-### Python & ML Journey
-![Python](https://progress-bar.dev/70/?title=Python&width=200&color=00C9FF)
-![scikit-learn](https://progress-bar.dev/40/?title=scikit-learn&width=200&color=92FE9D)
-![ML Algorithms](https://progress-bar.dev/35/?title=ML&width=200&color=00C9FF)
-![System Design](https://progress-bar.dev/25/?title=Architecture&width=200&color=92FE9D)
-
-</div>
-
-<br>
-
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rudrathacker2011&show_icons=true&theme=transparent&title_color=00C9FF&icon_color=92FE9D&text_color=9f9f9f&border_color=00C9FF&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rudrathacker2011&show_icons=true&theme=transparent&title_color=2E7D32&icon_color=1B5E20&text_color=9f9f9f&border_color=2E7D32&hide_border=true" />
   
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrathacker2011&layout=compact&theme=transparent&title_color=00C9FF&text_color=9f9f9f&border_color=00C9FF&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrathacker2011&layout=compact&theme=transparent&title_color=2E7D32&text_color=9f9f9f&border_color=2E7D32&hide_border=true" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rudrathacker2011&theme=transparent&hide_border=true&stroke=00C9FF&ring=92FE9D&fire=92FE9D&currStreakNum=00C9FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rudrathacker2011&theme=transparent&hide_border=true&stroke=2E7D32&ring=1B5E20&fire=1B5E20&currStreakNum=2E7D32" />
 </div>
 
 <br>
@@ -96,30 +82,14 @@
 
 <br>
 
-## 💪 The Gym Corner
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="100px">
-      </td>
-      <td>
-        <h3>"Living by design, not by default"</h3>
-        <p><i>Same discipline that builds muscle builds code</i></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
 ## 🤝 Let's Connect
 
 <div align="center">
   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thacker.rudra20@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thacker.rudra20)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rudrathacker2011)
+
 </div>
 
 <br>
@@ -131,5 +101,5 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,100:2E7D32&height=120&section=footer" />
 </div>
