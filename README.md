@@ -76,9 +76,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rudrathacker2011&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
 
 <br>
 
